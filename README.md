@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=50&color=F77F32&width=435&lines=Hello%2C+world!;Eu+sou+a+Byatriz+Moura!)](https://git.io/typing-svg)
 
-<p>- 👩🏻‍💻 Desenvolvedora junior e UX/UI Designer<br>- 📚 Estudante de Ciência de dados e cursando pós-graduação em Análise e Desenvolvimento de Programas</p>
+<p>- 👩🏻‍💻 Desenvolvedora junior e UX/UI Designer<br>- 📚 Estudante de Análise e Desenvolvimento de Sistemas</p>
  
 
 ### Conecte-se comigo
